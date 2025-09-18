@@ -22,7 +22,7 @@ Starts with resting position of the the right arm, elbow and hand on a desk with
 
 ## Headers:
 
-Recording are done via a [10-20 system](https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)) positioned EEG device 
+Recording are done via a [10-20 system](https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)) positioned [Brainaccess Kit](https://www.brainaccess.ai/products/brainaccess-standard-kit/) EEG device.
 
 ### F3
 
