@@ -25,20 +25,28 @@ Starts with resting position of the the right arm, elbow and hand on a desk with
 Recording are done via a [10-20 system](https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)) positioned [Brainaccess Kit](https://www.brainaccess.ai/products/brainaccess-standard-kit/) EEG device.
 
 ### F3
+Left Frontal Cortex F3.
 
 ### F4
+Right Frontal Cortex F4.
 
 ### C3
+Motor Imagery Region C3.
 
 ### C4
+Motor Imagery Region C4.
 
 ### P3 
+Left Peripheral Region P3.
 
 ### P4
+Right Peripheral Region P4.
 
 ### Cz
+Center Zenith Location Cz.
 
 ### Pz
+Peripheral Zenith Location Pz.
 
 ### Accel_x
 
