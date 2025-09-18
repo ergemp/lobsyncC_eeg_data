@@ -21,6 +21,9 @@ Starts with resting position of the the right arm, elbow and hand on a desk with
 Starts with resting position of the the right arm, elbow and hand on a desk with 90 degree elbow angle and strait wrist. Starting from the first notification subject start the movement of the right hand wrist to the down as if the fingers are showing the desk and ends the movement with the last notification. Since there is no room for down movement for the hand, movement is defined with the pressing the desk with finger tips and raising the wrist from the desk. 
 
 ## Headers:
+
+Recording are done via a [10-20 system](https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)) positioned EEG device 
+
 ### F3
 
 ### F4
