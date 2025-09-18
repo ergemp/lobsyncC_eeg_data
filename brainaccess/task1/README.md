@@ -49,9 +49,17 @@ Center Zenith Location Cz.
 Peripheral Zenith Location Pz.
 
 ### Accel_x
+EEG headset supports 3-axis accelerometer that can be used to detect head and other movements. Accel_x represents the X axis movements of the subjects head. 
 
 ### Accel_y
+EEG headset supports 3-axis accelerometer that can be used to detect head and other movements. Accel_y represents the Y axis movements of the subjects head. 
 
 ### Accel_z
+EEG headset supports 3-axis accelerometer that can be used to detect head and other movements. Accel_z represents the Z axis movements of the subjects head. 
 
 ### Sample
+Sample is the timeseries column of each measurement which increments for each measurement for time keeping. 
+
+
+
+
